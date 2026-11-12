@@ -6,7 +6,7 @@ Gold prices have fallen sharply. Find which active gold loans now breach the reg
 
 > A live industry project on [JobPrax](https://www.jobprax.com). The client, Suvarna Finance Ltd, and its data are simulated.
 
-> **Status: in progress.** 0 of 50 tasks solved as of 11 Nov 2026. The final report will be added when the project is complete.
+> **Status: in progress.** 6 of 50 tasks solved as of 12 Nov 2026. The final report will be added when the project is complete.
 
 ## Business problem
 
@@ -22,16 +22,16 @@ Management does not know how many active gold loans currently breach the 75% LTV
 
 ## Work so far
 
-- ⏳ [Task 1: Size of the loan extract](sql/task-01-size-of-the-loan-extract.sql)
-- ⏳ [Task 2: Size of the repayments table](sql/task-02-size-of-the-repayments-table.sql)
-- ⏳ [Task 3: Branch network](sql/task-03-branch-network.sql)
-- ⏳ [Task 4: States covered](sql/task-04-states-covered.sql)
-- ⏳ [Task 5: Disbursal period](sql/task-05-disbursal-period.sql)
-- ⏳ [Task 6: Unique loans](sql/task-06-unique-loans.sql)
+- ✅ [Task 1: Size of the loan extract](sql/task-01-size-of-the-loan-extract.sql)
+- ✅ [Task 2: Size of the repayments table](sql/task-02-size-of-the-repayments-table.sql)
+- ✅ [Task 3: Branch network](sql/task-03-branch-network.sql)
+- ✅ [Task 4: States covered](sql/task-04-states-covered.sql)
+- ✅ [Task 5: Disbursal period](sql/task-05-disbursal-period.sql)
+- ✅ [Task 6: Unique loans](sql/task-06-unique-loans.sql)
 
 ## What I did
 
-- Solved 0 of 50 analysis tasks tied to the business requirements
+- Solved 6 of 50 analysis tasks tied to the business requirements
 - Wrote 6 SQL queries, one per task, in [`sql/`](sql)
 - Explored and charted the data in Python, in [`notebook/analysis.ipynb`](notebook/analysis.ipynb)
 
